@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is deployed at:https://shubham-khandelwal18.github.io/Movie-Search/
 
 ## Available Scripts
 
